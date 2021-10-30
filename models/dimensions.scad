@@ -1,0 +1,35 @@
+//
+// Units in mm
+//
+
+// Raspberry Pi
+RPI_LENGTH = 88.0;
+RPI_WIDTH  = 59.0;
+RPI_HEIGHT = 20.0;
+
+// M3 screws
+M3_SCREW_DIA = 3.0;
+M3_SCREW_LENGTH_10 = 10.0;
+M3_SCREW_LENGTH_20 = 20.0;
+M3_SCREW_LENGTH_30 = 30.0;
+M3_SCREW_HEAD_DIA = 5.5;
+M3_SCREW_HEAD_HEIGHT = 3.0;
+
+// M3 nuts
+M3_NUT_HEIGHT = 2.3;
+M3_NUT_WIDTH = 5.4;
+
+// M3 washer
+M3_WASHER_DIA_IN = 3.2;
+M3_WASHER_DIA_OUT = 8.7;
+M3_WASHER_HEIGHT = 1.0;
+
+// RPi 1 B hole geometry
+RPI_1_HOLE_DX = 55.1;
+RPI_1_HOLE_DY = 23.5;
+RPI_1_HOLE_DIA = 2.75;
+
+// RPi 3 hole geometry
+RPI_3_HOLE_DX = 58.0;
+RPI_3_HOLE_DY = 49.0;
+RPI_3_HOLE_DIA = 2.90;
