@@ -1,7 +1,6 @@
 # Pile Of Pis
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
--> REPO PIC!
+![Image of Pile of Pis](https://raw.githubusercontent.com/PellelNitram/pile_of_pis/master/docs/0.2_repository_picture.jpg)
 
 A stackable simple-to-build single board computer storage that is open-source and modular which is made from sustainable materials.
 
