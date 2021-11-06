@@ -20,6 +20,12 @@ The parts needed for the build are:
 
 ## More information
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PellelNitram/pile_of_pis/master/docs/2.0_video.website.3.10162021.gif"
+       width="70%"
+       alt="Video of Pile of Pis">
+</p>
+
 * Website: http://lellep.xyz/pile-of-pis/
 * Video: https://youtu.be/LkifozoVDCs
 
