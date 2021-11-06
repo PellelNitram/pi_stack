@@ -35,3 +35,7 @@ The folders contain:
 
 * `production_files/`: Production files that you can use to manufacture the project with a laser cutter and 3D printer.
 * `src/`: Source files that produced the production files. This project uses OpenSCAD as CAD. Hence, all dimensions can be adapted if required.
+
+## License
+
+This work uses the [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/) license. See `LICENSE` file for more details.
